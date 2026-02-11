@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Large source files (Add your large PDFs here to avoid committing them)
+# explicit ignore of common large file names or a folder
+large_inputs/
+*.zip
+
+# Streamlit
+.streamlit/
